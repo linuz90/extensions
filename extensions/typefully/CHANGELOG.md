@@ -1,6 +1,6 @@
 # Typefully Changelog
 
-## [Cleanup] - {PR_MERGE_DATE}
+## [Cleanup] - 2026-02-04
 
 - Remove store submission checklist from README
 
